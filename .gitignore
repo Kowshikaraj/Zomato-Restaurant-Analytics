@@ -1,0 +1,13 @@
+# Large datasets
+Dataset/raw/*.csv
+Dataset/processed/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
