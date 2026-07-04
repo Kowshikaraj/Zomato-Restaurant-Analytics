@@ -19,7 +19,7 @@ An end-to-end restaurant analytics project that transforms raw restaurant data i
 
 ---
 
-<img src="screenshots/dashboard.png" width="100%">
+<img src="screenshots/Dashboard.png" width="100%">
 
 </div>
 
@@ -786,7 +786,7 @@ A large proportion of restaurants support online ordering, demonstrating the gro
 ## Dashboard Preview
 
 <p align="center">
-<img src="screenshots/dashboard.png" width="100%">
+<img src="screenshots/Dashboard.png" width="100%">
 </p>
 # Skills Demonstrated
 
